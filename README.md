@@ -1,44 +1,65 @@
-# AQI & HCHO Monitoring System
+# 🌍 AQI & HCHO Monitoring Dashboard
 
-## Problem Statement
+An interactive environmental monitoring dashboard that analyzes **Air Quality Index (AQI)**, **Formaldehyde (HCHO)** concentration, and **Biomass Burning Events** using satellite-inspired datasets. The project helps visualize pollution trends and supports environmental decision-making through interactive maps and data analysis.
 
-Air pollution is a major health hazard worldwide.
-This project analyzes the relationship between:
+---
 
-- Air Quality Index (AQI)
-- Formaldehyde (HCHO)
-- Biomass Burning Events
+## 🚀 Features
 
-using satellite-inspired datasets.
+- 📊 Interactive AQI Dashboard
+- 🌡️ AQI Heatmap Visualization
+- 🧪 HCHO Hotspot Detection
+- 🛰️ Sentinel-5P HCHO Layer Integration
+- 🔥 NASA FIRMS Fire Monitoring
+- 🤖 AQI Prediction using Machine Learning
+- 📈 Fire vs HCHO Correlation Analysis
+- 📄 Downloadable Reports
 
-## Features
+---
 
-- AQI Monitoring Dashboard
-- AQI Heatmap
-- HCHO Hotspot Detection
-- Sentinel-5P HCHO Layer
-- NASA FIRMS Fire Monitoring
-- AQI Prediction Model
-- Fire vs HCHO Correlation Analysis
-- Downloadable Reports
-
-## Technologies
+## 🛠️ Tech Stack
 
 - Python
 - Streamlit
 - Pandas
 - Folium
-- Scikit-Learn
+- Scikit-learn
 - Random Forest
 
-## Data Sources
+---
 
-- CPCB AQI (future integration)
+## 📂 Data Sources
+
 - NASA FIRMS
 - Sentinel-5P
-- Simulated Hackathon Datasets
+- Simulated Hackathon Dataset
+- CPCB AQI (Future Integration)
 
-## Output
+---
 
-Interactive dashboard for environmental monitoring and decision support.
+## 🎯 Project Outcome
 
+This dashboard enables users to:
+
+- Monitor air quality visually.
+- Detect pollution hotspots.
+- Analyze the impact of biomass burning.
+- Predict AQI using Machine Learning.
+- Support environmental monitoring and decision-making.
+
+---
+
+## 🔮 Future Improvements
+
+- Live AQI API Integration
+- Real-time Satellite Data
+- Time-series Forecasting
+- Mobile Responsive Dashboard
+
+---
+
+## 👨‍💻 Developed By
+
+**Divyanshu Kumar**
+
+Aspiring Data Analyst | Python | SQL | Power BI | Machine Learning

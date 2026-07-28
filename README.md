@@ -51,15 +51,20 @@ This dashboard enables users to:
 
 ## 📸 Dashboard Preview
 
-> Add dashboard screenshots here.
+### 🏠 Main Dashboard
+![Main Dashboard](images/Screenshot (86).png)
 
-Example:
+### 🌍 AQI Heatmap
+![AQI Heatmap](images/Screenshot (92).png)
 
-```
-images/dashboard.png
-images/heatmap.png
-images/prediction.png
-```
+### 🧪 HCHO Hotspot Detection
+![HCHO Hotspot](images/Screenshot (93).png)
+
+### 🔥 Fire vs HCHO Analysis
+![Fire Analysis](images/Screenshot (89).png)
+
+### 🤖 AQI Prediction
+![AQI Prediction](images/Screenshot (87).png)
 
 ## 🔮 Future Improvements
 

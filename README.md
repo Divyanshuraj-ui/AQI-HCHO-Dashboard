@@ -49,6 +49,18 @@ This dashboard enables users to:
 
 ---
 
+## 📸 Dashboard Preview
+
+> Add dashboard screenshots here.
+
+Example:
+
+```
+images/dashboard.png
+images/heatmap.png
+images/prediction.png
+```
+
 ## 🔮 Future Improvements
 
 - Live AQI API Integration
